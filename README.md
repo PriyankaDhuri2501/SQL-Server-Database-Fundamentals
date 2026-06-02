@@ -1,120 +1,49 @@
-# SQL Server Practice and Concepts
+# 📊 SQL Server Fundamentals
 
-A collection of SQL Server scripts demonstrating database design, data manipulation, relationships, joins, views, aggregate functions, subqueries, window functions, Common Table Expressions (CTEs), stored procedures, user-defined functions, indexes, and triggers.
+A comprehensive SQL Server project demonstrating database design, data manipulation, query optimization, and advanced T-SQL programming concepts through hands-on exercises and real-world scenarios.
 
-## Overview
+---
 
-This repository contains hands-on SQL Server practice exercises covering fundamental and advanced database concepts commonly used in data analytics, business intelligence, and backend development.
+## 📖 Project Overview
 
-## Topics Covered
+This repository showcases practical SQL Server skills used in data analytics, business intelligence, and backend development. The project covers the complete lifecycle of working with relational databases, from schema design and data management to advanced querying and performance optimization.
 
-### Database Fundamentals
+---
 
-* Database Creation
-* Table Creation
-* Data Types
+## 🚀 Key Concepts Demonstrated
+
+### Database Design & Management
+
+* Database and Table Creation
 * Constraints (Primary Key, Foreign Key, Unique, Check)
+* One-to-Many and Many-to-Many Relationships
 
-### CRUD Operations
+### Data Manipulation & Querying
 
-* INSERT
-* SELECT
-* UPDATE
-* DELETE
-* TRUNCATE
+* CRUD Operations (INSERT, SELECT, UPDATE, DELETE)
+* Data Filtering and Sorting
+* Aggregate Functions and Grouping
+* Set Operations
 
-### Data Retrieval and Filtering
+### Advanced SQL Development
 
-* WHERE Clause
-* DISTINCT
-* ORDER BY
-* TOP
-* LIKE Operator
-* CASE Statements
+* Joins and Relationship Analysis
+* Subqueries and Correlated Queries
+* Views
+* Common Table Expressions (CTEs)
+* Window Functions
+* Stored Procedures
+* User Defined Functions (UDFs)
 
-### Aggregate Functions
+### Performance & Database Programming
 
-* COUNT()
-* SUM()
-* AVG()
-* MIN()
-* MAX()
+* Index Creation and Query Optimization
+* Trigger-Based Data Validation
+* T-SQL Programming Techniques
 
-### Grouping and Analysis
+---
 
-* GROUP BY
-* HAVING
-* ROLLUP
-
-### Joins and Relationships
-
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* FULL OUTER JOIN
-* SELF JOIN
-* OUTER APPLY
-
-### Set Operations
-
-* UNION
-* UNION ALL
-* EXCEPT
-
-### Database Relationships
-
-* One-to-Many Relationships
-* Many-to-Many Relationships
-* Foreign Key Constraints
-
-### Views
-
-* Creating and Managing Views
-
-### Subqueries
-
-* Single-Row Subqueries
-* Multi-Row Subqueries
-* Correlated Subqueries
-
-### Window Functions
-
-* ROW_NUMBER()
-* RANK()
-* DENSE_RANK()
-* LAG()
-* LEAD()
-* Running Totals
-* PARTITION BY
-
-### Common Table Expressions (CTEs)
-
-* Department-wise Salary Analysis
-* Maximum Salary by Department
-* Data Transformation using CTEs
-
-### Stored Procedures
-
-* Parameterized Procedures
-* Data Retrieval Procedures
-* Data Modification Procedures
-
-### User Defined Functions
-
-* Scalar Functions
-* Inline Table-Valued Functions
-
-### Performance Optimization
-
-* Index Creation
-* Query Performance Improvement
-
-### Triggers
-
-* INSTEAD OF Triggers
-* Data Validation Logic
-
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 01_sql_basics_crud.sql
@@ -122,26 +51,32 @@ This repository contains hands-on SQL Server practice exercises covering fundame
 03_advanced_sql_server.sql
 ```
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 * SQL Server
 * T-SQL
 * SQL Server Management Studio (SSMS)
 
-## Key Learning Outcomes
+---
+
+## 🎯 Skills Demonstrated
 
 * Relational Database Design
-* Query Writing and Optimization
+* SQL Query Development
 * Data Analysis Using SQL
 * Database Programming with T-SQL
-* Advanced SQL Concepts
-* Performance Optimization Techniques
+* Query Performance Optimization
+* Data Integrity and Validation
+* Advanced Analytical SQL Techniques
 
-## Author
+---
 
-Priyanka Dhuri
+## 👩‍💻 Author
+
+**Priyanka Dhuri**
+
 Computer Engineering Student | SQL | Python | Data Analytics
-GitHub: https://github.com/PriyankaDhuri2501
 
-```
-```
+GitHub: https://github.com/PriyankaDhuri2501
