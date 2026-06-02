@@ -77,6 +77,6 @@ This repository showcases practical SQL Server skills used in data analytics, bu
 
 **Priyanka Dhuri**
 
-Computer Engineering Student | SQL | Python | Data Analytics
+AI & Data Science Engineering Student | SQL | Python | Data Analytics
 
 GitHub: https://github.com/PriyankaDhuri2501
